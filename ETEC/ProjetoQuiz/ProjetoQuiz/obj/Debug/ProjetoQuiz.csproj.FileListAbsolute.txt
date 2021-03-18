@@ -1,0 +1,45 @@
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Form1.resources
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.Cache
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Instrucoes.resources
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Quiz.resources
+D:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb
+D:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+D:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csprojResolveAssemblyReference.cache
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Form1.resources
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Instrucoes.resources
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Quiz.resources
+D:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.Cache
+H:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb
+H:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+H:\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csprojResolveAssemblyReference.cache
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Form1.resources
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Instrucoes.resources
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Quiz.resources
+H:\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.Cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Form1.resources
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Instrucoes.resources
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Quiz.resources
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb

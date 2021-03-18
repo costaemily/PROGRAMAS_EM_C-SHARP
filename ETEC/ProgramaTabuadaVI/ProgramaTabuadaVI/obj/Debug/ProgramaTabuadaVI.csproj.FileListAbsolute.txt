@@ -1,0 +1,13 @@
+c:\users\emily\documents\visual studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.pdb
+c:\users\emily\documents\visual studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.pdb
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.exe.config
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.exe
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\bin\Debug\ProgramaTabuadaVI.pdb
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.exe
+C:\Users\Emily\Documents\ETEC\Projetos Visual Studio\ProgramaTabuadaVI\ProgramaTabuadaVI\obj\Debug\ProgramaTabuadaVI.pdb

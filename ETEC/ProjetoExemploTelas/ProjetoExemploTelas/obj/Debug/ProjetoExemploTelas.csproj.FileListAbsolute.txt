@@ -1,0 +1,10 @@
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\bin\Debug\ProjetoExemploTelas.exe.config
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\bin\Debug\ProjetoExemploTelas.exe
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\bin\Debug\ProjetoExemploTelas.pdb
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.Form1.resources
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.Properties.Resources.resources
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.telaprincipal.resources
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.csproj.GenerateResource.Cache
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.exe
+c:\users\etec\documents\visual studio 2015\Projects\ProjetoExemploTelas\ProjetoExemploTelas\obj\Debug\ProjetoExemploTelas.pdb

@@ -1,0 +1,6 @@
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\emily\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,6 @@
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.pdb
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.pdb

@@ -1,0 +1,104 @@
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+J:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+J:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+F:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+F:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+F:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+F:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+D:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+D:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+D:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+D:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+K:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+K:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+K:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.formRegistro.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmRegistro.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisita.resources
+J:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\Bunifu_UI_v1.5.3.dll
+J:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.TelaLogin.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.formRegistro.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmRegistro.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisita.resources
+K:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.TelaLogin.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+H:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe
+H:\DWII\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.pdb
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojResolveAssemblyReference.cache
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.formRegistro.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmRegistro.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisita.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.TelaLogin.resources
+H:\DWII\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+C:\Users\Etec\Desktop\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+C:\Users\Etec\Desktop\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+F:\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+D:\ProjetoCondominio\ProjetoCondominio\bin\Debug\ProjetoCondominio.exe.config
+D:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.exe
+D:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.pdb
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csprojAssemblyReference.cache
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Properties.Resources.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.Form1.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.formRegistro.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmMorador.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmRegistro.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmUsuario.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.frmVisitante.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.UI.TelaLogin.resources
+F:\ProjetoCondominio\ProjetoCondominio\obj\Debug\ProjetoCondominio.csproj.GenerateResource.cache

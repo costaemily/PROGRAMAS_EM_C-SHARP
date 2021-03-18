@@ -1,0 +1,27 @@
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe.config
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.pdb
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Form1.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Properties.Resources.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csproj.GenerateResource.Cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.pdb
+H:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe.config
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.exe
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.pdb
+H:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe
+H:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.pdb
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csprojResolveAssemblyReference.cache
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Form1.resources
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Properties.Resources.resources
+H:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csproj.GenerateResource.Cache
+D:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe.config
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.exe
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.pdb
+D:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.exe
+D:\ProjetoTimer\ProjetoTimer\bin\Debug\ProjetoTimer.pdb
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csprojResolveAssemblyReference.cache
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Form1.resources
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.Properties.Resources.resources
+D:\ProjetoTimer\ProjetoTimer\obj\Debug\ProjetoTimer.csproj.GenerateResource.Cache

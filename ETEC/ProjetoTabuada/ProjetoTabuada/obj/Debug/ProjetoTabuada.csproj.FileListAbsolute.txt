@@ -1,0 +1,6 @@
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.exe.config
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.pdb
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.exe
+c:\users\emily\documents\visual studio 2013\Projects\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.pdb

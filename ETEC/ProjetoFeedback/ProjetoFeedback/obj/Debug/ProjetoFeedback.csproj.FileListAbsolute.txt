@@ -1,0 +1,37 @@
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe.config
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.pdb
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Form1.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Properties.Resources.resources
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csproj.GenerateResource.Cache
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.exe
+c:\users\etec\documents\visual studio 2013\Projects\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.pdb
+H:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe.config
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.exe
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.pdb
+H:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe
+H:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.pdb
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csprojResolveAssemblyReference.cache
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Form1.resources
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Properties.Resources.resources
+H:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csproj.GenerateResource.Cache
+J:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe.config
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.exe
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.pdb
+J:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe
+J:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.pdb
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csprojResolveAssemblyReference.cache
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Form1.resources
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Properties.Resources.resources
+J:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csproj.GenerateResource.Cache
+D:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe.config
+D:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.exe
+D:\ProjetoFeedback\ProjetoFeedback\bin\Debug\ProjetoFeedback.pdb
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csprojResolveAssemblyReference.cache
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Form1.resources
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.Properties.Resources.resources
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csproj.GenerateResource.cache
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.csproj.CoreCompileInputs.cache
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.exe
+D:\ProjetoFeedback\ProjetoFeedback\obj\Debug\ProjetoFeedback.pdb

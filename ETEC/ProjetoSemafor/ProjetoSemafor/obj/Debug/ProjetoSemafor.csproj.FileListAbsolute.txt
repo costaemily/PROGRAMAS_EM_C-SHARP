@@ -1,0 +1,36 @@
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe.config
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.pdb
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csprojResolveAssemblyReference.cache
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Form1.resources
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Properties.Resources.resources
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csproj.GenerateResource.Cache
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.exe
+H:\Nova pasta\New\ETEC\2 Modulo\DW\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.pdb
+H:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe.config
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.exe
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csprojResolveAssemblyReference.cache
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Form1.resources
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Properties.Resources.resources
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csproj.GenerateResource.Cache
+H:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe
+H:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.pdb
+H:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.pdb
+D:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe.config
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.exe
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.pdb
+D:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe
+D:\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.pdb
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csprojResolveAssemblyReference.cache
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Form1.resources
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Properties.Resources.resources
+D:\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csproj.GenerateResource.Cache
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe.config
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.exe
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.pdb
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.exe
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\bin\Debug\ProjetoSemafor.pdb
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csprojResolveAssemblyReference.cache
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Form1.resources
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.Properties.Resources.resources
+C:\Users\emily\Documents\Visual Studio 2013\Projects\ProjetoSemafor\ProjetoSemafor\obj\Debug\ProjetoSemafor.csproj.GenerateResource.Cache
